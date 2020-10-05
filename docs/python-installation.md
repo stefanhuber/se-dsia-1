@@ -47,9 +47,9 @@ _**Häufiges Problem:** Falls die Powershell bereits vor dem Installationsvorgan
 
 Betriebssysteme setzen Umgebungsvariablen, welche von Benutzern angepasst werden können. Wichtige Bestandteile des Betriebssystems oder Anwendungen können damit global konfiguriert werden.
 
-Die Variable `PATH` ist dabei eine sehr wichtige Umgebungsvariable. `PATH` enthält Ordnerpfade. Alle Ordnerpfade, welche in der Variable `PATH` enthalten sind, werden beim Start einer Shell (zB der Powershell) "aktivier". Das bedeuted, dass alle ausführbaren Dateien (zB .exe oder .bat), welche in Ordnern liegen die in der Variable `PATH` definiert wurden, ohne Pfadangabe ausgeführt werden können.
+Die Variable `PATH` ist dabei eine sehr wichtige Umgebungsvariable. `PATH` enthält Ordnerpfade. Alle Ordnerpfade, welche in der Variable `PATH` enthalten sind, werden beim Start einer Shell (zB der Powershell) "aktiviert". Das bedeutet, dass alle ausführbaren Dateien (zB .exe oder .bat), welche in Ordnern liegen die in der Variable `PATH` definiert wurden, ohne Pfadangabe ausgeführt werden können.
 
-Die war auch der Grund, dass beim Installieren von Python gefragt wurde, ob Python zur `PATH` Variable hinzugefügt werden soll.
+Dies war auch der Grund, dass beim Installieren von Python gefragt wurde, ob Python zur `PATH` Variable hinzugefügt werden soll.
 
 
 
