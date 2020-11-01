@@ -4,7 +4,6 @@
 
  - [Prozedurale Programmierung 1](notebooks/Prozedurale%20Programmierung%201.ipynb)
  - [Prozedurale Programmierung 2](notebooks/Prozedurale%20Programmierung%202.ipynb)
- - [Objektorientierte Programmierung 1](notebooks/Objektorientierte%20Programmierung%201.ipynb)
 
 ## Tutorials
 
